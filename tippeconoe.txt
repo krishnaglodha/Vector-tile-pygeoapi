@@ -1,0 +1,1 @@
+tippecanoe --output-to-directory=tiles/ --force --minimum-zoom=1 --maximum-zoom=6 --drop-densest-as-needed --extend-zooms-if-still-dropping --no-tile-compression state_province.geojson
